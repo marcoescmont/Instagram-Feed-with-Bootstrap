@@ -30,11 +30,21 @@
     height: 730px;
 }
 
+.full {
+    max-width: 100%;
+}
+.pills .img-op1 {
+    max-width: 99%;
+    min-height: 400px;
+    max-height: 400px;
+}
+
 .pills .dropdown .img-op2 {
     width: 100%;
     min-height: 410px;
     max-height: 410px;
 }
+
 .pills .dropdown .limit {
     min-height: 155px;
     max-height: 155px;
