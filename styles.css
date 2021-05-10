@@ -1,6 +1,6 @@
 .body {
     background-color: #c7c7c7;
-    min-width: 682.5px;
+    min-width: 720px;
 }
 .instagram {
     font-family: 'Lobster', cursive;
@@ -24,14 +24,18 @@
     background-color: #c7c7c7;
 }
 .pills .dropdown {
-    width: 682.5px;
+    width: 720px;
 }
 .pills .dropdown .post-size{
-    height: 682px;
+    height: 730px;
 }
 
 .pills .dropdown .img-op2 {
-    width: 99%;
+    width: 100%;
     min-height: 410px;
     max-height: 410px;
+}
+.pills .dropdown .limit {
+    min-height: 155px;
+    max-height: 155px;
 }
