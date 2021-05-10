@@ -57,3 +57,7 @@
     min-height: 155px;
     max-height: 155px;
 }
+
+body .modal-backdrop {
+    position: sticky;
+}
