@@ -31,12 +31,20 @@
 }
 
 .full {
-    max-width: 100%;
+    width: 100%;
+    padding-bottom: 2px;
+}
+.full2 {
+    width: 100%;
+    padding-left: 2px;
+    padding-top: 2px;
 }
 .pills .img-op1 {
-    max-width: 99%;
+    max-width: 633px;
+    min-width: 633px;
     min-height: 400px;
     max-height: 400px;
+    padding-right: 2px;
 }
 
 .pills .dropdown .img-op2 {
